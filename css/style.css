@@ -1,0 +1,13 @@
+main {
+	font-size: 22px;
+	line-height: 1.55;
+}
+
+header {
+	background: #FD739C;
+	color: white;
+}
+
+h1, h2 {
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
