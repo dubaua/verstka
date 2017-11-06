@@ -6,8 +6,18 @@ body {
 header {
 	background: #FD739C;
 	color: white;
+	padding: 50px 400px;
 }
 
 h1, h2 {
 	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	margin-bottom: 0;
+}
+
+h1 + p, h2 + p {
+	margin-top: .33em;
+}
+
+section {
+	padding: 50px 400px;
 }
