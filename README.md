@@ -10,4 +10,4 @@ I'm here to learn git and chew ur arses and as you can see I already know how to
 - создавать алиасы для гита
 - создавать алиасы в системе
 - поставил ohmyzsh, облегчив себе работу в терминале
-- 👌🏻 прошел урок 1!
+- 👌🏻 прошел урок 1! 6 nov
